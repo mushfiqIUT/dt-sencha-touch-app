@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result is_array="true">
+    <item>
+        <tid>7</tid>
+        <vid>43</vid>
+        <name>International</name>
+        <description></description>
+        <weight>0</weight>
+        <depth>0</depth>
+        <parents is_array="true">
+            <item>0</item>
+        </parents>
+    </item>
+    <item>
+        <tid>66</tid>
+        <vid>43</vid>
+        <name>South Asia</name>
+        <description></description>
+        <weight>0</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>6</tid>
+        <vid>43</vid>
+        <name>US</name>
+        <description></description>
+        <weight>1</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>8</tid>
+        <vid>43</vid>
+        <name>Europe</name>
+        <description></description>
+        <weight>2</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>9</tid>
+        <vid>43</vid>
+        <name>China</name>
+        <description></description>
+        <weight>3</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>10</tid>
+        <vid>43</vid>
+        <name>Africa</name>
+        <description></description>
+        <weight>4</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>3</tid>
+        <vid>43</vid>
+        <name>Latin America</name>
+        <description></description>
+        <weight>5</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>7</item>
+        </parents>
+    </item>
+    <item>
+        <tid>1</tid>
+        <vid>43</vid>
+        <name>Business</name>
+        <description></description>
+        <weight>7</weight>
+        <depth>0</depth>
+        <parents is_array="true">
+            <item>0</item>
+        </parents>
+    </item>
+    <item>
+        <tid>4</tid>
+        <vid>43</vid>
+        <name>Stock markets</name>
+        <description></description>
+        <weight>0</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>1</item>
+        </parents>
+    </item>
+    <item>
+        <tid>2</tid>
+        <vid>43</vid>
+        <name>Banks</name>
+        <description></description>
+        <weight>1</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>1</item>
+        </parents>
+    </item>
+    <item>
+        <tid>5</tid>
+        <vid>43</vid>
+        <name>Commerce</name>
+        <description></description>
+        <weight>2</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>1</item>
+        </parents>
+    </item>
+    <item>
+        <tid>67</tid>
+        <vid>43</vid>
+        <name>Regulation</name>
+        <description></description>
+        <weight>3</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>1</item>
+        </parents>
+    </item>
+    <item>
+        <tid>11</tid>
+        <vid>43</vid>
+        <name>Sport</name>
+        <description></description>
+        <weight>12</weight>
+        <depth>0</depth>
+        <parents is_array="true">
+            <item>0</item>
+        </parents>
+    </item>
+    <item>
+        <tid>12</tid>
+        <vid>43</vid>
+        <name>Cricket</name>
+        <description></description>
+        <weight>0</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>13</tid>
+        <vid>43</vid>
+        <name>Football</name>
+        <description></description>
+        <weight>1</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>14</tid>
+        <vid>43</vid>
+        <name>Formula One</name>
+        <description></description>
+        <weight>2</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>15</tid>
+        <vid>43</vid>
+        <name>Golf</name>
+        <description></description>
+        <weight>3</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>16</tid>
+        <vid>43</vid>
+        <name>Tennis</name>
+        <description></description>
+        <weight>4</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>61</tid>
+        <vid>43</vid>
+        <name>Table tennis</name>
+        <description></description>
+        <weight>5</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>62</tid>
+        <vid>43</vid>
+        <name>Volleyball</name>
+        <description></description>
+        <weight>6</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>63</tid>
+        <vid>43</vid>
+        <name>Hockey</name>
+        <description></description>
+        <weight>7</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>64</tid>
+        <vid>43</vid>
+        <name>Chess</name>
+        <description></description>
+        <weight>8</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+    <item>
+        <tid>65</tid>
+        <vid>43</vid>
+        <name>Athletics</name>
+        <description></description>
+        <weight>9</weight>
+        <depth>1</depth>
+        <parents is_array="true">
+            <item>11</item>
+        </parents>
+    </item>
+</result>
